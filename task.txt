@@ -34,6 +34,18 @@
 empl salary --> avg
 //heighest paid employee ->
 //
+TASK:
+bank management
+
+case 1 open ac
+	-->opening balance -- should 10000 
+case 2 withdraw
+	--> pls en amount 12000 --> balance ->  balance  shound minus
+	--> min balance 3000 maintain...
+case 3 deposit
+	-> 100000 -->deposit,0
+case 4 check balance
+	-->net balance
 
 
 

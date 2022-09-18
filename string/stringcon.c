@@ -15,7 +15,7 @@
 void main(){
 
     char name[30]="royal";
-    char name1[30]="tech";
+    char name1[30]="tech";f
 
     strcat(name,name1);
 

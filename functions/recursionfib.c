@@ -15,7 +15,7 @@ int sumofdigit(int no){
                 //27 + 127 +1
                 //125 +27 + 7 = 153
 
-        return (pow(no%10,3)+sumofdigit(no/10));
+        return (pow(no%10, 3)+sumofdigit(no/10));
     }
     else{
         return 0;

@@ -49,3 +49,11 @@ case 4 check balance
 
 
 
+    //// read data from filer word to word 
+    find no of words
+
+    namam
+    //palindrome words ?
+
+
+

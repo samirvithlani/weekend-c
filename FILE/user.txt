@@ -1,0 +1,7 @@
+
+ user id = 101
+ user name = raj
+ user salary =1235.250000
+ user id = 102
+ user name = amit
+ user salary =45786.246094
